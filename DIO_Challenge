@@ -1,0 +1,11 @@
+#Creating a Copilot
+Before creating a Copilot, it's important to define its purpose and scope. Then, open the Copilot Studio and begin filling out the parameters based on your plan. It's recommended to build the Copilot using English, as Microsoft provides more resources in this language, which also helps the bot understand the main objectives more effectively.
+
+#Customizing a Topic in Copilot
+Identify the specific topic you want to customize. Modify the Copilot's responses and behavior related to that topic by adjusting the underlying code or using the configuration interface provided by the development platform. This customization can be done on specific topics, allowing you to define moderation and quality parameters.
+
+#Personalizing a Fallback Message
+In the Topic configuration, the Fallback Message is activated by default. As the developer responsible for the Copilot's operation, you can restructure the fallback procedures according to your expectations and provide a better experience for end-users.
+
+#Adjusting Answer Quality with GenAI
+Use the settings in Copilot Studio to fine-tune the response quality. This may involve adjusting parameters like creativity, verbosity, and relevance to better align with user expectations. This configuration can be applied to specific topics or the Copilot agent as a whole by accessing the settings.
